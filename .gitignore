@@ -1,2 +1,2 @@
-web
-!web/wp-config.php
+web/*
+!wp-config.php
